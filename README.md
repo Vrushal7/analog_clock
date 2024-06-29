@@ -1,2 +1,2 @@
 # analog_clock
-This is a analog clock project created using HTML, CSS, and JavaScript. It displays the current time and updates in real-time without requiring any manual refresh.
+The Analog Clock project is a web-based application that displays the current time in a classic analog clock format. It utilizes HTML for structure, CSS for styling, and JavaScript for dynamic functionality. The clock consists of hour, minute, and second hands, all synchronized to accurately reflect the current time.  It displays the current time and updates in real-time without requiring any manual refresh.
